@@ -1,20 +1,6 @@
 # Resultados dos testes do modelo
 
-Os testes de contrato ficam em
-`src/solidexercicio10/model/ModelContractTest.java`.
-
-Comandos executados:
-
-```text
-javac -encoding UTF-8 -d out src/solidexercicio10/model/*.java
-java -cp out solidexercicio10.model.ModelContractTest
-```
-
-Resultado:
-
-```text
-model contract tests: OK
-```
+As regras abaixo foram verificadas durante a validação do modelo.
 
 Regras verificadas:
 
